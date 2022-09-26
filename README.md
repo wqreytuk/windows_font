@@ -1,0 +1,5 @@
+双击ttf文件安装unifont字体
+
+双击reg文件设置windows字体为unifont
+
+重启生效
